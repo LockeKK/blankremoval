@@ -5,6 +5,4 @@ Remove the redundant blanks and tables and merge multiple blank lines into singl
 
 By defualt, it supports *.c and *.h. Help youself to add other types.
 
-*Config*
-
-*filetype=("*.c" "*.h")*
+        *filetype=("*.c" "*.h")*
